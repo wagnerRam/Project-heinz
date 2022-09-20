@@ -1,0 +1,9 @@
+para rodar o projeto basta entrar em FIAP 
+
+cd FIAP 
+challenger\Script\activate
+cd HEINZ 
+
+dentro do vsCode 
+
+python .\manage.py runserver 
